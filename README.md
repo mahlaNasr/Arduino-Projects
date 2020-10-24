@@ -11,6 +11,10 @@ Workshop 2:
 1) LED with pushbutton
 2) Traffic light with pushbutton
 
+Workshop 3:
+1) Turn On Buzzer
+2) Playing 7 Different Notes Using Buttons and a Buzzer (Mini Piano)
+
 
 
 I have used an online software to simulate my work:
